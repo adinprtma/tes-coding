@@ -1,6 +1,6 @@
 # Halo semua! 
  
-Perkenalkan nama saya **Adi Nuzul Pratama**.<br>
+Perkenalkan nama saya **Adi**.<br>
 
 Saya seorang **Network Engineer** di PT.Fiber Network Indonesia.<br>
 
